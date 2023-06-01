@@ -91,7 +91,7 @@ export default function Home() {
         <div className="section-container my-20">
           <h3>Supercharge your workflow</h3>
           <p className="mb-16 leading-9 text-center max-w-3xl">
-            We've got the tools to boost your productivity.
+            We&apos;ve got the tools to boost your productivity.
           </p>
           {/* Items Container */}
           <div className="flex flex-col items-center justify-between space-y-16 md:flex-row md:space-y-0 md:space-x-12">
@@ -140,8 +140,7 @@ export default function Home() {
         <div className="section-container mb-40 pt-16">
           <h3>Clipboard for iOS and MacOS</h3>
           <p className="max-w-3xl mb-10 mx-auto font-sans text-3xl text-grayishBlue">
-            Available for free on the App Store. Download for Mac or iOS, sync
-            with iCloud and you're ready to start adding to your clipboard.
+            Available for free on the App Store. Download for Mac or iOS, sync with iCloud and you&apos;re ready to start adding to your clipboard.
           </p>
           {/* Button Container */}
           <div className="button-container">
